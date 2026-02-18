@@ -149,7 +149,7 @@ Random Forest was selected as the final model because:
 
 # 🌐 Streamlit Web Application
 
-The trained model was deployed using Streamlit.
+![IPL Score Predictor App](Screenshot.png)
 
 The web application allows users to:
 
