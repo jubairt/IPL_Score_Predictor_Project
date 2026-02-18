@@ -149,8 +149,6 @@ Random Forest was selected as the final model because:
 
 # 🌐 Streamlit Web Application
 
-![IPL Score Predictor App](Screenshot.png)
-
 The web application allows users to:
 
 - Select the batting team  
@@ -178,8 +176,7 @@ The application includes validation checks:
 
 # 🖥️ Streamlit App Screenshot
 
-_Add your Streamlit app screenshot below:_
-
+![IPL Score Predictor App](Screenshot.png)
 
 ---
 
